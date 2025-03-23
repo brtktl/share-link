@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "tr.com.manavgatrehberim.app",
+        "sha256_cert_fingerprints": [
+          "BE:12:20:8E:93:61:66:6B:38:F3:5C:5C:7F:49:1D:2B:F8:B5:37:74:03:5B:DA:1A:D6:2A:9D:AE:71:E8:0B:14"
+        ]
+      }
+    }
+  ]
